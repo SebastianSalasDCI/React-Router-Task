@@ -15,3 +15,7 @@
 
 - **5** Your application should be working by now. When you click on search should appear the component ***SearchResult*** with the input text and the button. When you click about, the ***About*** Component should appear.
 
+
+* example, when click on ***About*** link
+![alt text](./images/page2.png "react-router")
+
